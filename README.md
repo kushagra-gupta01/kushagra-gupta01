@@ -1,5 +1,5 @@
 ### Hi there 👋
-# Kushagra-Gupta
+# Kushagra Gupta
 # 💫 About Me:
 I'm a 2nd year Computer Sceince grad<br>Highly interested in Full-Stack Web Development & Devops<br>love to contribute to open-source communities
 
