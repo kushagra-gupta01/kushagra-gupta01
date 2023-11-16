@@ -28,7 +28,7 @@ I'm a 2nd year Computer Sceince grad<br>Highly interested in Full-Stack Web Deve
                 src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white">
         </a>
         <!-- Linkedin -->
-        <a href="https://https://www.linkedin.com/in/kushagra-gupta01/" target="_blank"><img alt="Linkedin"
+        <a href="https://www.linkedin.com/in/kushagra-gupta01/" target="_blank"><img alt="Linkedin"
                 src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
         </a>
        <!-- Youtube -->
