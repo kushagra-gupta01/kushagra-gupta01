@@ -1,3 +1,4 @@
+![header](https://user-images.githubusercontent.com/65603830/189990171-e2b3421b-f13c-4911-afb0-ef62ee7dffac.png)
 ### Hi there 👋
 # Kushagra-Gupta
 # 💫 About Me:
@@ -14,8 +15,6 @@ I'm a 2nd year Computer Sceince grad<br>Highly interested in Full-Stack Web Deve
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kushagra-gupta01&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kushagra-gupta01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kushagra-gupta01&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
