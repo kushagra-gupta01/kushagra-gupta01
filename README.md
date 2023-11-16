@@ -1,5 +1,5 @@
 ![header](https://user-images.githubusercontent.com/65603830/189990171-e2b3421b-f13c-4911-afb0-ef62ee7dffac.png)
-### Hi there👋, I'm Kushagra-Gupta 
+## Hi there👋, I'm Kushagra-Gupta 
 # 💫 About Me:
 I'm a 3rd year Computer Sceince grad<br>Highly interested in Full-Stack Web Development & Devops
 
