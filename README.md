@@ -53,10 +53,10 @@
 <!--         <a href="https://www.youtube.com/channel/UCd92D4k_1I-HpErxbJy20jA" target="_blank"><img alt="Youtube"
                 src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white">
         </a> -->
-        <!-- Medium -->
-<!--         <a href="https://medium.com/@Abhishek_rawe" target="_blank"><img alt="Medium"
-                src="https://img.shields.io/badge/-Medium-0A66C2?style=flat-square&logo=Medium&logoColor=white">
-        </a>  -->
+        <!-- Hashnode -->
+         <a href="https://hashnode.com/@kushagragupta01" target="_blank"><img alt="Hashnode"
+                src="https://img.shields.io/badge/-Hashnode-0A66C2?style=flat-square&logo=hashnode&logoColor=white">
+        </a> 
     </p>
 </details>
 
