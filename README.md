@@ -33,6 +33,7 @@
     <p align="center">
         <!-- Social Links -->
         <p>Find me on</p>
+    
         <!-- Gmail -->
         <a href="mailto:kushagra30000@gmail.com" target="_blank"><img alt="Gmail"
                 src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
