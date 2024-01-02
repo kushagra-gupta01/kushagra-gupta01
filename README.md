@@ -60,12 +60,28 @@
         </a> 
     </p>
 </details>
+<br/>
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kushagra-gupta01&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kushagra-gupta01&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kushagra-gupta01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+    <a href="https://github.com/Kushagra-gupta01/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kushagra Gupta's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kushagra-gupta01&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
+## 📊 Github Stats:
+
+
+  <br/>
+    <a href="https://github.com/Kushagra-gupta01/github-readme-stats"><img alt="Kushagra Gupta's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kushagra-gupta01&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Kushagra-gupta01/github-readme-stats"><img alt="Kushagra Gupta's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushagra-gupta01&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+  <br/>
+
+<!--## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kushagra-gupta01&theme=react&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kushagra-gupta01&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=kushagra-gupta01&theme=react&hide_border=true)<br/>
+-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
