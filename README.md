@@ -28,12 +28,12 @@
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) 
 ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white) 
+
 <details align="center">
     <summary> Connect </summary>
     <p align="center">
         <!-- Social Links -->
         <p>Find me on</p>
-    
         <!-- Gmail -->
         <a href="mailto:kushagra30000@gmail.com" target="_blank"><img alt="Gmail"
                 src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
@@ -60,6 +60,7 @@
         </a> 
     </p>
 </details>
+<!-- <table  align="Center" ><tr><td valign="top" width="50%"> -->
 <br/>
 
 <p align="center">
